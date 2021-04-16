@@ -38,3 +38,4 @@
 4. Twitter bot:
     * Using twitter developer portal, create a bot.
     * Obtain the credentials and insert them in the code properly.
+    * The code from "twit.py" in this repository should be copy pasted into the "discord.py" file for twitter functions.
