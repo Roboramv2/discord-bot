@@ -11,6 +11,7 @@
 ### Functionalities explored:
 
 |Discord|Twitter|
+|-------|-------|
 |Setting activity and status|Posting status|
 |Replies and Mentions|Posting text messages|
 |Sending GIFs|Posting media files|
