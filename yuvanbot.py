@@ -1,7 +1,4 @@
 import discord
-import io
-import os
-import imgkit
 import chat_exporter
 from discord.ext import commands
 from discord.utils import get
